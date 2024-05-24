@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anurag Dey</h1>
 <h3 align="center">Currently learning the ropes of life and software world in Jadavpur University</h3>
 
-- 📫 How to reach me **iamanuragdey005@gmail.com**
+- 📫 How to reach me: **iamanuragdey005@gmail.com**
 
-- ⚡ Fun fact **I know how to complete work in time, somehow or the other**
+- ⚡ Fun fact: **I know how to complete work in time, somehow or the other**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
