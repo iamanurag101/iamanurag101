@@ -28,7 +28,7 @@
 ![Frontend Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vite,next,html,css,scss,tailwind,shadcn,gsap)
 
 #### Backend Technologies
-![Backend Technologies](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,prisma,sequelize,jwt)
+![Backend Technologies](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,prisma,sequelize,jwt,gemini,langchain)
 
 #### Database & Tools
 ![Database & Tools](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,neon,postgresql)
