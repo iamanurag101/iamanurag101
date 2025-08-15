@@ -22,18 +22,18 @@
 ## Skills
 
 #### Programming Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,js,ts,python)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,js,ts,python&perline=5)
 
 #### Frontend Technologies
-![Frontend Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vite,next,html,css,scss,tailwind,shadcn,gsap)
+![Frontend Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vite,next,html,css,scss,tailwind,shadcn,gsap&perline=5)
 
 #### Backend Technologies
-![Backend Technologies](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,prisma,sequelize,jwt,gemini,langchain)
+![Backend Technologies](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,prisma,sequelize,jwt,gemini,langchain&perline=5)
 
 #### Database & Tools
-![Database & Tools](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,neon,postgresql)
+![Database & Tools](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,neon,postgresql,redis&perline=5)
 
 #### Other tools & Technologies
-![Others](https://go-skill-icons.vercel.app/api/icons?i=git,github,markdown,vercel,vscode,figma,payload,ngrok,postman,ps,ai,lighthouse,overleaf)
+![Others](https://go-skill-icons.vercel.app/api/icons?i=git,github,markdown,vercel,vscode,figma,payload,ngrok,postman,ps,ai,lighthouse,overleaf&perline=5)
 
 [![An image of @iamanurag101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamanurag101)](https://holopin.io/@iamanurag101)
