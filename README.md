@@ -34,6 +34,6 @@
 ![Database & Tools](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,neon,postgresql,redis&perline=5)
 
 #### Other tools & Technologies
-![Others](https://go-skill-icons.vercel.app/api/icons?i=git,github,markdown,vercel,vscode,figma,payload,ngrok,postman,ps,ai,lighthouse,overleaf&perline=5)
+![Others](https://go-skill-icons.vercel.app/api/icons?i=git,github,markdown,vercel,vscode,figma,payload,ngrok,postman,ps,ai,excel,lighthouse,overleaf&perline=5)
 
 [![An image of @iamanurag101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamanurag101)](https://holopin.io/@iamanurag101)
