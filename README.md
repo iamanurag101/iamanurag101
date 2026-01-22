@@ -9,7 +9,7 @@
 </p>
 
 
-- 📫 How to reach me: **iamanuragdey005@gmail.com**
+- 📫 How to reach me: **hello@byanurag.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
