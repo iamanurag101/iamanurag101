@@ -1,4 +1,4 @@
-<img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/ef1f833a-106b-4a6d-9515-33c3b44005b1" />
+<img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/ab1d5ad3-928e-475a-a4b9-2f9e97f754b5" />
 
 <h1 align="center">Hi 👋, I'm Anurag Dey</h1>
 <h3 align="center">Engineering undergrad looking to contribute to the world of software development</h3>
